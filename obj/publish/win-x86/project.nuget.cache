@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LXbWV7HPXMBQ0mAEtH3TNAKcuZjmxLHRSEmd4ZqTw91lBnPwmglw4uIRhthR93yhd34ppqZlvJ6lHOsLzUwciw==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Arka\\Arka Bot\\GNIAPI\\GNIAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dias\\.nuget\\packages\\instagramapisharp\\1.7.1\\instagramapisharp.1.7.1.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\portable.bouncycastle\\1.8.6.7\\portable.bouncycastle.1.8.6.7.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.14\\microsoft.netcore.app.runtime.win-x86.3.1.14.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.14\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.14.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.14\\microsoft.aspnetcore.app.runtime.win-x86.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
